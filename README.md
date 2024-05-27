@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#💫 About Me:
+I’m  a First-year Computer Science student at IIT Bhubaneswar with a deep interest in data science, machine learning, and deep learning. I enjoy diving into data, building models, and applying innovative techniques to solve real-world problems.
+
+#💻 Tech Stack:
+Python, C, C++, JavaScript, Pandas, Scikit-Learn, MatplotLib, OpenCV, Pytorch, TensorFlow, Numpy
